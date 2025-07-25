@@ -9,39 +9,39 @@
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devanand13)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaldevanands@gmail.com)
 
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Backend+Developer+with+Cloud+Focus;Building+reliable+infrastructure+with+Node.js+%2B+PostgreSQL;Crafting+full-stack+apps+using+Next.js+and+AWS)
+
 </div>
 
 ---
 
 ## 🚀 Projects
 
-### 🎙️ [VibeCast – Realtime Podcast Platform](https://github.com/devanand13/vibecast)
-- Built using **Next.js**, **Node.js**, **PostgreSQL**, **Prisma**, **Socket.IO**, **S3**
-- Realtime streaming with **SFU-based video calls**, dynamic guest/host states, and room sync
+### 🎙️ VibeCast – Realtime Podcast Platform
+- Designed and built a scalable podcast streaming platform using **Next.js**, **Node.js**, **PostgreSQL**, and **Prisma**
+- Implemented real-time capabilities with **WebSockets (Socket.IO)** and file handling with **AWS S3**
 
-### 📞 Communication Platform (BYJU’S)
-- APIs for **Email, SMS, WhatsApp, IVR** using Twilio
-- Auth flow with CAPTCHA and secure comms
-- Scaled and optimized with Node.js, AWS, Redis
+### 📞 Internal Communication Platform – BYJU’S
+- Developed full-stack APIs to send communications via **SMS**, **Email**, **IVR**, and **WhatsApp** using **Twilio**
+- Integrated **CAPTCHA verification** and **Twilio Authy** for secure access control
 
-### 🤖 Product Image AI Bot (Freelance)
-- WhatsApp automation using Twilio + Stable Diffusion for background editing
+### 📸 Product Image AI Bot (Freelance)
+- Automated product image enhancement via **WhatsApp bot** using **Twilio** and **Stable Diffusion**
 
 ---
 
 ## 🧑‍💻 Experience
 
-### 🟦 Software Engineer Intern – **BYJU’S**
+### Software Engineer Intern – BYJU’S  
 📍 Bangalore, India | 🗓️ Jan 2022 – Jun 2022  
-- Built full-stack communication platform (SMS, Email, WhatsApp, IVR) with **Twilio**
-- Secured comms using **CAPTCHA** and **Twilio Authy**
-- Improved reliability and performance of cron jobs and email flows
-- Stack: Node.js, MySQL, MongoDB, AWS (S3, EC2), Redis
+- Developed a full-stack platform to deliver SMS, Email, IVR, and WhatsApp messages using **Twilio**
+- Integrated **CAPTCHA** and **Twilio Authy** for OTP verification and access control
+- Implemented reliable cron jobs and dashboards for real-time communication monitoring
 
-### 🧠 Research Intern – **IIT Hyderabad**
+### Research Intern – IIT Hyderabad  
 📍 Hyderabad, India | 🗓️ Jun 2021 – Aug 2021  
-- Created and trained CNNs for **Histopathological Image Classification**
-- Integrated pre-processing pipelines using Python (OpenCV, NumPy, SciKit-Learn)
+- Worked on **Histopathological Image Classification** using CNNs
+- Built image pre-processing pipelines using **OpenCV**, **NumPy**, and **SciKit-Learn**
 
 ---
 
@@ -63,7 +63,7 @@
 **📘 Master of Information Technology**  
 RMIT University, Melbourne | 🗓️ Feb 2024 – Nov 2025
 
-**📘 B.Tech in ECE**  
+**📘 B.Tech in Electronics and Communication Engineering**  
 NIT Calicut, India | 🗓️ Jun 2018 – May 2022
 
 ---
@@ -78,9 +78,9 @@ NIT Calicut, India | 🗓️ Jun 2018 – May 2022
 
 ## 📬 Let's Connect
 
-Open to building products around cloud infra, real-time apps, and backend architecture.
+I’m always up for building products around **cloud infrastructure**, **real-time apps**, or **backend systems**. If that excites you too, let's talk.
 
-[![Schedule a Call](https://img.shields.io/badge/Schedule_Call-0A84FF?style=for-the-badge&logo=googlecalendar&logoColor=white)](mailto:amaldevanands@gmail.com)
+[![Email Me](https://img.shields.io/badge/Say_Hi-0A84FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaldevanands@gmail.com)
 
 ---
 
