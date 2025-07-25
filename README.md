@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devanand13)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaldevanands@gmail.com)
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Backend+Developer+with+Cloud+Focus;Building+reliable+infrastructure+with+Node.js+%2B+PostgreSQL;Crafting+full-stack+apps+using+Next.js+and+AWS)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Backend+Developer+with+Cloud+Focus;Building+reliable+infrastructure;Crafting+full-stack+apps+using+Next.js+and+AWS)
 
 </div>
 
@@ -21,7 +21,7 @@
 - Designed and built a scalable podcast streaming platform using **Next.js**, **Node.js**, **PostgreSQL**, and **Prisma**
 - Implemented real-time capabilities with **WebSockets (Socket.IO)** and file handling with **AWS S3**
 
-### 📞 Internal Communication Platform – BYJU’S
+### 📞 Communication Platform – BYJU’S
 - Developed full-stack APIs to send communications via **SMS**, **Email**, **IVR**, and **WhatsApp** using **Twilio**
 - Integrated **CAPTCHA verification** and **Twilio Authy** for secure access control
 
