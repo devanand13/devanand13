@@ -1,112 +1,58 @@
 <div align="center">
-  
-  ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=200&section=header&text=Amal%20Devanand%20Shine&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35)
 
-  ## Full Stack Developer | Software Engineer | Tech Generalist
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=200&section=header&text=Amal%20Devanand%20Shine&fontSize=45&fontColor=ffffff&animation=twinkling)
 
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/sdevanand13)
-  [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devanand13)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-devanand-s-34662a175/)
-  [![Email](https://img.shields.io/badge/Email-0A84FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaldevanands@gmail.com)
+**Full Stack Developer · Backend Engineer · System Integrator**
 
-  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Backend+Specialist;WebSocket+and+SFU+Developer)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/sdevanand13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-devanand-s-34662a175/)
+[![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white)](https://github.com/devanand13)
+[![Email](https://img.shields.io/badge/Email-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amaldevanands@gmail.com)
+
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Crafting+Reliable+Backends;Next.js+%2B+Node.js+in+Production;Love+WebSockets%2C+Auth%2C+and+S3)
+
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects I'm Proud Of
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">VibeCast</h3>
-<div align="center">
-  <p>
-    <strong>Real-time Podcast Platform</strong> — Full-stack Next.js app with live video rooms using WebSocket + SFU architecture, PostgreSQL + Prisma, and S3-based video handling.
-  </p>
-  <a href="https://github.com/devanand13/vibecast" target="_blank">
-    <img src="https://img.shields.io/badge/View_Project-0A84FF?style=for-the-badge"/>
-  </a>
-</div>
-</td>
+### 🎙️ VibeCast – Real-time Podcast Platform  
+A full-stack live podcasting platform with:
+- **SFU-based video calls** and role-based room sync (host/guest)
+- Built using **Next.js**, **Node.js**, **PostgreSQL**, **Prisma**, **TailwindCSS**
+- Plans for **chunked video uploads to S3** and on-demand video merging
 
-<td width="50%">
-<h3 align="center">Comms Infrastructure</h3>
-<div align="center">
-  <p>
-    <strong>Twilio-based Global Messaging System</strong> — Unified SMS, WhatsApp, Email & IVR APIs using Twilio Voice, Authy, and security measures to protect from SMS abuse.
-  </p>
-</div>
-</td>
-</tr>
-</table>
+[🔗 GitHub Repo](https://github.com/devanand13/vibecast)
 
 ---
 
-## 💼 Experience
-
-- **Software Engineer @ BYJU’S (2022–2023)**  
-  Built backend services for student communication and analytics using Node.js, MongoDB, and Twilio. Set up tracking instrumentation and reduced cloud operation costs.
-
-- **Freelance Developer @ Dehidden (2023)**  
-  Built AI-powered image generator with WhatsApp bot integration using Stable Diffusion and Twilio. Enabled eCommerce users to create product images from chat input.
+### 📞 Communication System Setup (BYJU’S)  
+Built scalable messaging workflows:
+- Multi-channel: **SMS**, **WhatsApp**, **Email**, **IVR**
+- Built using **Twilio APIs**, **AppSync**, and **DynamoDB**
+- Used by 100K+ students for post-class interaction
 
 ---
 
-## 🧠 Technical Strengths
+## 👨‍💻 Experience
 
-<div align="center">
-  <table>
-    <tr>
-      <td><strong>Languages</strong></td>
-      <td>TypeScript · JavaScript · C++ · Python · Java</td>
-    </tr>
-    <tr>
-      <td><strong>Frontend</strong></td>
-      <td>React · Next.js · Tailwind CSS</td>
-    </tr>
-    <tr>
-      <td><strong>Backend</strong></td>
-      <td>Node.js · Express · WebSocket · REST · JWT · OAuth</td>
-    </tr>
-    <tr>
-      <td><strong>Databases</strong></td>
-      <td>PostgreSQL · MongoDB · MySQL · DynamoDB · Prisma</td>
-    </tr>
-    <tr>
-      <td><strong>Cloud & DevOps</strong></td>
-      <td>AWS (S3, AppSync, Lambda, EC2) · Vercel · Docker</td>
-    </tr>
-    <tr>
-      <td><strong>Tools & APIs</strong></td>
-      <td>Twilio API · Authy · WebRTC · Socket.IO</td>
-    </tr>
-  </table>
-</div>
+### 💼 BYJU’S, Software Engineer  
+→ Designed and scaled backend systems for customer communication and course instrumentation  
+→ Tech stack: Node.js · MongoDB · MySQL · AWS AppSync · Twilio · Redshift
+
+### 🌍 Dehidden (Freelance Fullstack Dev)  
+→ Built **AI-powered product image generation** using **Stable Diffusion + Twilio bot**  
+→ Enabled users to generate eCommerce assets from WhatsApp directly
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Core Skills
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanand13&layout=compact&theme=tokyonight&hide_border=true" width="50%" alt="Most Used Languages"/>
-</div>
-
----
-
-## 🧠 Side Thoughts
-
-> *"The best abstractions come from solving real-world chaos, not academic purity."*  
-> — Amal
-
----
-
-## 🤝 Let's Connect
-
-I'm open to collaboration on full-stack projects, DevOps tools, or AI × Web integrations.
-
-[![Schedule a Call](https://img.shields.io/badge/Schedule_Call-0A84FF?style=for-the-badge&logo=zoom&logoColor=white)](mailto:amaldevanands@gmail.com)
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0A84FF&height=120&section=footer)
+```ts
+Languages:      TypeScript · JavaScript · C++ · Python · Java  
+Frontend:       Next.js · React · TailwindCSS  
+Backend:        Node.js · Express · WebSocket · REST · Auth (JWT, OAuth2)  
+Databases:      PostgreSQL · MongoDB · MySQL · DynamoDB · Prisma  
+Cloud & DevOps: AWS (S3, AppSync, Lambda, EC2) · Docker · Vercel  
+Other APIs:     Twilio · WebRTC · Authy · Socket.IO
