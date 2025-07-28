@@ -8,7 +8,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-devanand-s-34662a175/)
   [![Email](https://img.shields.io/badge/Email-%230A84FF.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaldevanands@gmail.com)
 
-  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Software+Engineer;Next.js+%7C+Node.js+%7C+AWS+%7C+WebRTC)
+  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Software+Engineer;Next.js+%7C+Node.js+%7C+React+%7C+Devops)
 
 </div>
 
